@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959117938992",
+    "project_id": "myfoodplace-3c0fb",
+    "storage_bucket": "myfoodplace-3c0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959117938992:android:4dc21fe7ee1f9ec23838f5",
+        "android_client_info": {
+          "package_name": "com.goodfood.monresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959117938992-pi4bajdc9c81j7okn2h5rtnlqlspmovm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3diuRdO7hDQfe-9IUkXeWLdfUnUrSK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959117938992-pi4bajdc9c81j7okn2h5rtnlqlspmovm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
